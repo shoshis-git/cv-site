@@ -1,0 +1,12 @@
+C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\GitHub.Services\bin\Debug\net8.0\GitHub.Services.deps.json
+C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\GitHub.Services\bin\Debug\net8.0\GitHub.Services.dll
+C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\GitHub.Services\bin\Debug\net8.0\GitHub.Services.pdb
+C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\GitHub.Services\obj\Debug\net8.0\GitHub.Services.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\GitHub.Services\obj\Debug\net8.0\GitHub.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\GitHub.Services\obj\Debug\net8.0\GitHub.Services.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\GitHub.Services\obj\Debug\net8.0\GitHub.Services.AssemblyInfo.cs
+C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\GitHub.Services\obj\Debug\net8.0\GitHub.Services.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\GitHub.Services\obj\Debug\net8.0\GitHub.Services.dll
+C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\GitHub.Services\obj\Debug\net8.0\refint\GitHub.Services.dll
+C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\GitHub.Services\obj\Debug\net8.0\GitHub.Services.pdb
+C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\GitHub.Services\obj\Debug\net8.0\ref\GitHub.Services.dll
