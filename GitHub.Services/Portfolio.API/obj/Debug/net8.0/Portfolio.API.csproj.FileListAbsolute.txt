@@ -36,3 +36,4 @@ C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\Por
 C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\Portfolio.API\obj\Debug\net8.0\Portfolio.API.pdb
 C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\Portfolio.API\obj\Debug\net8.0\Portfolio.API.genruntimeconfig.cache
 C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\Portfolio.API\obj\Debug\net8.0\ref\Portfolio.API.dll
+C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\Portfolio.API\obj\Debug\net8.0\Portfolio.API.sourcelink.json

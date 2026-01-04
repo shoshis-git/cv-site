@@ -10,3 +10,4 @@ C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\Git
 C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\GitHub.Services\obj\Debug\net8.0\refint\GitHub.Services.dll
 C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\GitHub.Services\obj\Debug\net8.0\GitHub.Services.pdb
 C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\GitHub.Services\obj\Debug\net8.0\ref\GitHub.Services.dll
+C:\Users\user1\Documents\תכנות\פרקטיקוד\cv site\GitHub.Services\GitHub.Services\obj\Debug\net8.0\GitHub.Services.sourcelink.json
